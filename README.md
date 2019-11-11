@@ -23,7 +23,7 @@ term_.prefs_.set('user-css', 'https://mshaugh.github.io/powerline-webfonts/power
 ### Preferences Editor
 
 * `font-family: "DejaVu Sans Mono", monospace`
-* `user-css: https://mshaugh.github.io/powerline-webfonts/powerline-webfonts.css`
+* `user-css: https://jdthegeek.github.io/powerline-webfonts/powerline-webfonts.css`
 
 ## Font Ligatures
 
